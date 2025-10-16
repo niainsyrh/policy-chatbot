@@ -1,0 +1,14 @@
+Q: What is a .my domain?
+A: The .my domain is Malaysia's country-code top-level domain (ccTLD) managed by MyNIC.
+
+Q: Who can register a .my domain?
+A: Any individual or organisation with a presence in Malaysia can register a .my domain name.
+
+Q: How do I renew my domain?
+A: Log in to SELFCARE or contact your registrar before the expiry date to renew your domain name.
+
+Q: Who can register a .edu.my domain?
+A: Educational institutions recognised by the Ministry of Education or Ministry of Higher Education are eligible for .edu.my.
+
+Q: What happens if my domain expires?
+A: After the expiry date, the domain enters a 45-day renewal grace period. If not renewed, it will be deleted from the registry.

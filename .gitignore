@@ -1,0 +1,27 @@
+@"
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+.env/
+
+# Streamlit / IDE
+.vscode/
+.streamlit/
+
+# Generated / large artifacts
+vectordb/
+data/chunks/
+
+# Models / caches / binaries
+*.dll
+*.bin
+*.pt
+.cache/
+huggingface/
+.ipynb_checkpoints/
+"@ | Set-Content -Encoding UTF8 .gitignore

@@ -1,0 +1,11 @@
+streamlit==1.39.0
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+PyPDF2==3.0.1
+
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.1.1
+langdetect==1.0.9
+
+ollama==0.3.3
